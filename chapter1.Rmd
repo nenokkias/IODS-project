@@ -1,4 +1,2 @@
-
-# About the project
 *This is an R-course*
 <https://github.com/nenokkias/IODS-project>
