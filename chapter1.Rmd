@@ -1,4 +1,8 @@
+---
 title: "R-course"
 author: "Liisa S."
+  html_document:
+  TOC:TRUE
+---
 *This is an R-course*
 <https://github.com/nenokkias/IODS-project>
