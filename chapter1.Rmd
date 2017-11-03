@@ -1,5 +1,7 @@
-*R-course*
+# R-course
 
-This is an R-course
+This is an interesting R-course.
 
+
+My repository:
 <https://github.com/nenokkias/IODS-project>
