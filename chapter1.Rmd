@@ -1,2 +1,4 @@
+title: "R-course"
+author: "Liisa S."
 *This is an R-course*
 <https://github.com/nenokkias/IODS-project>
